@@ -1,0 +1,19 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "Project for Udacity`s Front End Nanodegree Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carolina Cabral",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.10.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-responsive": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}

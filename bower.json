@@ -1,0 +1,21 @@
+{
+  "name": "portifolio",
+  "description": "Project for Udacity`s Front End Nanodegree Program",
+  "main": "index.js",
+  "authors": [
+    "Carolina Cabral"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.6.3"
+  }
+}
